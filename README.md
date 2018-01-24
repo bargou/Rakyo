@@ -1,0 +1,2 @@
+# Rakyo
+A Digital Currency
